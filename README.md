@@ -88,3 +88,6 @@ Notes
 This project is for demonstration purposes only.
 Checkout is UI-only.
 node_modules folders are intentionally excluded.
+
+
+Author: Ahammad Yazeem
